@@ -23,9 +23,8 @@ Technical lead for Volvo Cars' global e-commerce platform, spanning product offe
 
 - Drove the end-to-end launch of **Performance Mode** — a major Add-Ons product — navigating competing priorities, cross-cluster dependencies, and tight timelines. One of four engineers recognised for outstanding contributions at the launch celebration.
 - Led the definition of **Software Eligibility ownership** across Fulfillment and OOE clusters, enabling online purchase of software add-ons and establishing clear inter-team accountability where none existed.
-- Delivered **category pages for the Storefront** via two new Federated Graph queries, abstracting collection logic behind a clean API — contributing to Energy product sales going live in 19 additional markets in Q3 2024.
 - Architected and launched **Green Light Service MVP**, reducing merchant-caused P1/P2 incidents to 0% for three consecutive months (April–June 2024), protecting conversion rates.
-- Led **cross-cluster technical exploration for Financing Offers**, producing a concrete proposal for modelling subscriptions in the HEP information model to enable recurring payments for Digital Services and Service Plans.
+- Led **cross-cluster technical exploration for Financing Offers**, producing a concrete proposal for modelling subscriptions in the commercial information model to enable recurring payments for several products.
 - Diagnosed and re-implemented **OpenTelemetry as a sidecar**, eliminating weekly collector crashes and improving metric accuracy from unrealistic 40k to true 10–100 requests per consumer.
 - Authored Standard Operating Procedures and cluster documentation, enabling other engineers to own product updates independently — removing single-person dependencies.
 - Facilitated cluster-wide knowledge sharing through regular POPCorn Sessions, transitioning the programme from individual-led to a sustainable rotating team initiative.
